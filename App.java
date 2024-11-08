@@ -33,7 +33,6 @@ class Home {
         ticket.setBounds(350, 50, 100, 30);
         venue.setBounds(450, 50, 100, 30);
 
-
         ButtonGroup groupTableNamesRadioBtn = new ButtonGroup();
         groupTableNamesRadioBtn.add(event);
         groupTableNamesRadioBtn.add(organizer);
